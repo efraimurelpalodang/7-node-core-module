@@ -1,1 +1,1 @@
-Hallo world secara synchronous
+Hallo world secara asynchronous
